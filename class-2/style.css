@@ -1,0 +1,47 @@
+/* Universal selector */
+*{
+    color: red;
+    padding: 10px;
+}
+/* Tyoe Selector */
+p{
+    color: purple;
+}
+h2{
+    color: blue;
+}
+/* Class Selector */
+/* .para{
+    font-size: 20px;
+    color: black;
+} */
+.leb{
+    background: #000;
+    color: aliceblue;
+}
+.leb input{
+    width: 98.8%;
+}
+/* Id Selector */
+#paraId{
+    color: cadetblue;
+}
+/* Parent Child Selector */
+div > p{
+    color: yellowgreen;
+}
+/* Decendant Selector */
+div p{  
+    color: #000;
+}
+ul li{
+    color: yellowgreen;
+}
+/* Adjecent Sibling Selector */
+div + p{
+    color: green;
+}
+/* General Sibling Selector */
+div ~ p{
+    color: green;
+}
