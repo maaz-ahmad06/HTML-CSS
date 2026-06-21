@@ -1,0 +1,21 @@
+/* hexadecimal color  */
+.section-1{
+    background-color: aqua;
+}
+.section-1 p{
+    color: #a70e8d;
+}
+/* rgb color */
+.section-2{
+    background-color: rgb(8, 134, 184);
+}
+.section-2 p{
+    color: #a70e8d;
+}
+/* rgba color */
+.section-3{
+    background-color: rgba(4, 136, 63, 0.3);
+}
+.section-3 p{
+    color: rgba(158, 21, 200, 0.74);
+}
