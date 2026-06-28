@@ -1,0 +1,41 @@
+.container{
+    border: 2px solid rgb(4, 0, 255);
+    width: 300px;
+    /* min-height: 100px; */
+    max-height: 100px;
+    /* overflow: scroll; */
+    /* overflow-x: scroll; */
+    /* overflow-y: scroll; */
+    overflow: auto;    
+}
+.para{
+    border: 2px solid black;
+    /* width: fit-content; */
+
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align: center; */
+    /* text-align: justify; */
+
+    /* text-decoration: overline; */
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-decoration-color: blue; */
+    /* text-decoration-style: dashed; */
+
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-transform: none; */
+
+    /* text-indent: 5%; */
+    /* letter-spacing: 10px; */
+    /* word-spacing: 20px; */
+    /* line-height: 10px; */
+    /* white-space: nowrap; */
+    /* white-space: wrap; */
+    /* white-space: pre; */
+
+    /* text-shadow: 5px 5px 5px; */
+    text-shadow: -5px -5px 5px;
+}
